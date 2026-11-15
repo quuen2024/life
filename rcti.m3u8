@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-http://royaltv.world:25461/live/S1048/9886/110.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+http://royaltv.world:25461/live/S1048/9886/110.m3u8
