@@ -3,4 +3,5 @@
 #EXT-X-STREAM:TARGETDURATION=Automatic
 #EXT-X-STREAM:PLAYING=Auto
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4800000,HEVC=1920x1080,SPEED=Auto
+https://live2.brenvoxedgenetwork.com/live/channel6.m3u8
 https://live2.brenvoxedgenetwork.com/live/channel4.m3u8
